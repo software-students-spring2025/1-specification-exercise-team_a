@@ -15,7 +15,17 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a home cook, I want to input the ingredients I have and my dietary restrictions so that I can receive personalized recipe suggestions.
+As a health-conscious eater, I want to access nutrition details of a recipe so that I can make informed decisions about my meals.
+As a busy professional, I want to quickly choose between cooking at home or finding a restaurant so that I can get relevant food options easily.
+As a beginner cook, I want to see detailed step-by-step cooking instructions with an embedded tutorial video so that I can easily follow along while cooking.
+As a food enthusiast, I want to regenerate meal suggestions if I don’t like the first set so that I can explore more recipe options
+As a traveler, I want to enter my address or use my current location so that I can get restaurant suggestions near me.
+As a foodie, I want to view restaurant details like name, cuisine type, rating, and distance so that I can make a quick decision on where to eat.
+As a diner with dietary restrictions, I want restaurant suggestions based on my preferences so that I can find suitable places to eat.
+As a frequent restaurant-goer, I want to check the restaurant’s menu, reviews, and photos so that I can determine if it fits my preferences.
+As a returning user, I want to save my favorite recipes and restaurants so that I can easily revisit them later.
+
 
 ## Activity Diagrams
 
