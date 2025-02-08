@@ -11,21 +11,21 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-#### **Interviewee: Yinuo Song – an Indecisive Eater**  
+#### **Interviewees: Yinuo Song & Kevin Ni – Indecisive Eaters**  
 
 ### **Problems / Frustrations**  
-- **Struggles with Deciding What to Cook**: Leads to **repetitive meals** or **unhealthy takeout**.  
-- **Ingredient Waste**: Users often buy **groceries without a plan**, leading to **expired food**.  
-- **Lack of Integrated Cooking & Dining Apps**: Most apps focus only on **recipes or restaurant discovery**, making it difficult to switch between both.  
-- **Unclear Nutritional Information**: Users struggle to track **calories, macronutrients, and meal healthiness** when cooking at home.  
-- **Difficulty Finding Suitable Recipes**: Many users with **dietary restrictions** (gluten-free, vegan, keto) struggle to find **recipes that match their needs**.  
+- Struggles with Deciding What to Eat: This leads to repetitive meals or even skipping meals.   
+- Ingredient Waste: Users often buy groceries without a plan, leading to expired/unfresh food.
+- Lack of Integrated Cooking & Dining Apps: Most apps focus only on recipes or restaurant discovery, making it difficult to switch between both.  
+- Unclear Nutritional Information: Users struggle to track calories, macronutrients, and meal healthiness when cooking at home.  
+- Difficulty Finding Suitable Recipes: Users with dietary restrictions (gluten-free, vegan) struggle to find recipes that match their needs.  
 
 ### **Goals / Needs**  
-- **Easy Meal Planning**: Step-by-step **text or video tutorials** for guided cooking.  
-- **Smart Ingredient Utilization**: Enable users to select available food for recipe suggestions, reducing **ingredient waste** by recommending meals based on what's already in the kitchen.  
-- **Seamless Home-Cooking & Dining-Out Experience**: An all-in-one platform that allows easy switching between **cooking at home** and **finding restaurants**.  
-- **Nutritional Insights**: Each recipe includes **caloric information** and **macronutrient breakdowns** (proteins, carbs, fats).  
-- **Personalized Recipe Filtering**: Automated meal planner that suggests recipes **matching dietary preferences** and filters out **allergens and disliked ingredients**.  
+- Easy Meal Planning: Step-by-step text or video tutorials for guided cooking.  
+- Smart Ingredient Utilization: Enable users to select available food for recipe suggestions, reducing ingredient waste by recommending meals based on what's already in the kitchen.  
+- Seamless Home-Cooking & Dining-Out Experience: An all-in-one platform that allows easy switching between cooking at home and finding restaurants.  
+- Nutritional Insights: Each recipe includes caloric information and macronutrient breakdowns (proteins, carbs, fats).  
+- Personalized Recipe Filtering: Automated meal planner that suggests recipes matching dietary preferences and filters out allergens and disliked ingredients.  
 
 ## Product Vision Statement
 
@@ -47,23 +47,23 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 
 ## Activity Diagrams
 
-Details:
-1st layer：
-Create an account 
-Login your account
-2nd layer：
-Create an account ：enter info
-Login your account: login with info
-3rd layer：
-Your meal preferences: dietary preference, healthy goal(calories)
-Make your Meal plan
-Wanna go out for dining？
-Favorite recipe/restaurant
-4th layer：
-Make your Meal plan-enter ingredient you have，followed by the recipes you can choose for this meal
-Lack of ingredient or recipe? Grocery store recommended, nearby restaurant recommended
-5th layer:
-Video tutorial of recipe, recipe
+Details
+- 1st layer：
+    - Create an account 
+    - Login your account 
+- 2nd layer：
+    - Create an account ：enter info 
+    - Login your account: login with info 
+- 3rd layer：
+    - Your meal preferences: dietary preference, healthy goal(calories) 
+    - Make your Meal plan 
+    - Wanna go out for dining？ 
+    - Favorite recipe/restaurant 
+- 4th layer：
+    - Make your Meal plan-enter ingredient you have，followed by the recipes you can choose for this meal 
+    - Lack of ingredient or recipe? Grocery store recommended, nearby restaurant recommended 
+- 5th layer:
+    - Video tutorial of recipe
 
 
 ## Clickable Prototype
