@@ -4,10 +4,57 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
+Shipeng Zhao: https://github.com/Tonyzsp
+Yukun Dong: https://github.com/abccdyk
+Hao Yang: https://github.com/Hao-Yang-Hao
+Chuqiao Huang: https://github.com/ChuqiaoHuang
+
+---
+
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+## **Interviewee: Yinuo Song – an Indecisive Eater**  
+
+
+# **Problems / Frustrations**  
+
+- **Struggles with Deciding What to Cook**  
+  - Leads to **repetitive meals** or **unhealthy takeout**.  
+
+- **Ingredient Waste**  
+  - Users often buy **groceries without a plan**, leading to **expired food**.  
+
+- **Lack of Integrated Cooking & Dining Apps**  
+  - Most apps focus only on **recipes or restaurant discovery**, making it difficult to switch between both.  
+
+- **Unclear Nutritional Information**  
+  - Users struggle to track **calories, macronutrients, and meal healthiness** when cooking at home.  
+
+- **Difficulty Finding Suitable Recipes**  
+  - Many users with **dietary restrictions** (gluten-free, vegan, keto) struggle to find **recipes that match their needs**.  
+
+
+
+# **Goals / Needs**  
+
+- **Easy Meal Planning**  
+  - Step-by-step **text or video tutorials** for guided cooking.  
+
+- **Smart Ingredient Utilization**  
+  - Enable users to select available food for recipe suggestions, reducing **ingredient waste** by recommending meals based on what's already in the kitchen.  
+
+- **Seamless Home-Cooking & Dining-Out Experience**  
+  - An all-in-one platform that allows easy switching between **cooking at home** and **finding restaurants**.  
+
+- **Nutritional Insights**  
+  - Each recipe includes **caloric information** and **macronutrient breakdowns** (proteins, carbs, fats).  
+
+- **Personalized Recipe Filtering**  
+  - Automated meal planner that suggests recipes **matching dietary preferences** and filters out **allergens and disliked ingredients**.  
+
+---
+
 
 ## Product Vision Statement
 
