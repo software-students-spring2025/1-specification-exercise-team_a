@@ -4,7 +4,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
 
@@ -12,7 +11,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+MealPlanner+ is an AI-powered meal planning and dining assistant that personalizes daily meals based on dietary preferences, available ingredients, and health goals, offering smart recipe suggestions, seamless grocery integration, and curated restaurant recommendations to create a stress-free, convenient, and enjoyable food experience.
 
 ## User Requirements
 
@@ -20,7 +19,24 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+Details:
+1st layer：
+Create an account 
+Login your account
+2nd layer：
+Create an account ：enter info
+Login your account: login with info
+3rd layer：
+Your meal preferences: dietary preference, healthy goal(calories)
+Make your Meal plan
+Wanna go out for dining？
+Favorite recipe/restaurant
+4th layer：
+Make your Meal plan-enter ingredient you have，followed by the recipes you can choose for this meal
+Lack of ingredient or recipe? Grocery store recommended, nearby restaurant recommended
+5th layer:
+Video tutorial of recipe, recipe
+
 
 ## Clickable Prototype
 
