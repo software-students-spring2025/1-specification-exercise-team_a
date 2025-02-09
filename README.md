@@ -68,4 +68,4 @@ Details
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/QMYlMBSyxmgCRCyWZMIagY/Team_A?node-id=2-4&p=f&t=kmUj2PSFIMieNd8G-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4&show-proto-sidebar=1
