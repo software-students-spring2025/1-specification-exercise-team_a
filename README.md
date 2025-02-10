@@ -67,7 +67,7 @@ Details
     - Lack of ingredient or recipe? Grocery store recommended, nearby restaurant recommended 
 - 5th layer:
     - Video tutorial of recipe
-   ![alt text](642003993121152765.png)
+![alt text](642003993121152765-1.png)
 
 
 ## Clickable Prototype
