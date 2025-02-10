@@ -21,15 +21,16 @@ A little exercise to get started with the specification phase of the software de
 - Difficulty Finding Suitable Recipes: Users with dietary restrictions (gluten-free, vegan) struggle to find recipes that match their needs.  
 
 ### **Goals / Needs**  
-- Easy Meal Planning: Step-by-step text or video tutorials for guided cooking.  
-- Smart Ingredient Utilization: Enable users to select available food for recipe suggestions, reducing ingredient waste by recommending meals based on what's already in the kitchen.  
-- Seamless Home-Cooking & Dining-Out Experience: An all-in-one platform that allows easy switching between cooking at home and finding restaurants.  
-- Nutritional Insights: Each recipe includes caloric information and macronutrient breakdowns (proteins, carbs, fats).  
-- Personalized Recipe Filtering: Automated meal planner that suggests recipes matching dietary preferences and filters out allergens and disliked ingredients.  
+- Easy Meal Planning: Step-by-step text or video tutorials for guided cooking.
+-Smart Ingredient Utilization: Enable users to select available food for recipe suggestions, reducing ingredient waste by recommending meals based on what's already in the kitchen.
+-Seamless Home-Cooking & Dining-Out Experience: An all-in-one platform that allows easy switching between cooking at home and finding restaurants.
+-Nutritional Insights: Each recipe includes caloric information and macronutrient breakdowns (proteins, carbs, fats).
+-Personalized Recipe Filtering: Automated meal planner that suggests recipes matching dietary preferences and filters out allergens and disliked ingredients. 
 
 ## Product Vision Statement
 
 MealPlanner+ is an AI-powered meal planning and dining assistant that personalizes daily meals based on dietary preferences, available ingredients, and health goals, offering smart recipe suggestions, seamless grocery integration, and curated restaurant recommendations to create a stress-free, convenient, and enjoyable food experience. With a focus on convenience, nutrition, and personalization, MealPlanner+ tailors its recommendations to fit diverse lifestyles, ensuring that users have access to healthy, delicious, and suitable meal options anytime, anywhere.
+
 
 ## User Requirements
 
@@ -45,13 +46,18 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 - As a returning user, I want to save my favorite recipes and restaurants so that I can easily revisit them later.
 
 
-
 ## Activity Diagrams
 - As a user, I want to get the recipe based on my ingredients so that I can cook at home.
 - As a user, I want to get the information of near restaurants and reserve an appointment so that I can eat outside.
 
+
+-As a user, I want to get the recipe based on my ingredients so that I can cook at home.
+-As a user, I want to get the information of near restaurants and reserve an appointment so that I can eat outside.
+
 ![alt text](48956199727041065.png)
 
+
+![alt text](525389892750869392.png)
 
 ## Clickable Prototype
 
