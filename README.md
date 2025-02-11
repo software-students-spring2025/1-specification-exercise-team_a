@@ -29,7 +29,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-MealPlanner+ is an AI-powered meal planning and dining assistant that personalizes daily meals based on dietary preferences, available ingredients, and health goals, offering smart recipe suggestions, seamless grocery integration, and curated restaurant recommendations to create a stress-free, convenient, and enjoyable food experience. With a focus on convenience, nutrition, and personalization, MealPlanner+ tailors its recommendations to fit diverse lifestyles, ensuring that users have access to healthy, delicious, and suitable meal options anytime, anywhere.
+MealPlanner+ is an AI-powered meal planning and dining assistant that personalizes recipes based on dietary preferences, available ingredients, offering smart tutorials, seamless grocery integration, and curated restaurant recommendations to create a stress-free, convenient, and enjoyable food experience. With a focus on convenience, nutrition, and personalization, MealPlanner+ tailors its recommendations to fit diverse lifestyles, ensuring that users have access to healthy, delicious, and suitable meal options anytime, anywhere.
 
 ## User Requirements
 
@@ -55,4 +55,4 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/QMYlMBSyxmgCRCyWZMIagY/Team_A?node-id=2-4&p=f&t=kmUj2PSFIMieNd8G-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4&show-proto-sidebar=1
+[team_a's prototype](https://www.figma.com/proto/QMYlMBSyxmgCRCyWZMIagY/Team_A?node-id=2-4&p=f&t=kmUj2PSFIMieNd8G-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4&show-proto-sidebar=1)
