@@ -53,5 +53,4 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 
 
 ## Clickable Prototype
-
-https://www.figma.com/proto/QMYlMBSyxmgCRCyWZMIagY/Team_A?node-id=2-4&p=f&t=kmUj2PSFIMieNd8G-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4&show-proto-sidebar=1
+[Link to the prototype](https://www.figma.com/proto/QMYlMBSyxmgCRCyWZMIagY/Team_A?node-id=2-4&p=f&t=kmUj2PSFIMieNd8G-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4&show-proto-sidebar=1)
