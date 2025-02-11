@@ -49,7 +49,7 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 ## Activity Diagrams
 - As a user, I want to get the recipe based on my ingredients so that I can cook at home.
 - As a user, I want to get the information of near restaurants and reserve an appointment so that I can eat outside.
-![alt text](578410588523525697-1.png)
+![alt text](717297050984552134.png)
 
 
 ## Clickable Prototype
