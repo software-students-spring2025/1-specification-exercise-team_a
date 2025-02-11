@@ -21,6 +21,7 @@ A little exercise to get started with the specification phase of the software de
 - Difficulty Finding Suitable Recipes: Users with dietary restrictions (gluten-free, vegan) struggle to find recipes that match their needs.  
 
 ### **Goals / Needs**  
+
 - Easy Meal Planning: Step-by-step text or video tutorials for guided cooking.  
 - Smart Ingredient Utilization: Enable users to select available food for recipe suggestions, reducing ingredient waste by recommending meals based on what's already in the kitchen.  
 - Seamless Home-Cooking & Dining-Out Experience: An all-in-one platform that allows easy switching between cooking at home and finding restaurants.  
