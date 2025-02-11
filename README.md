@@ -14,7 +14,6 @@ A little exercise to get started with the specification phase of the software de
 #### **Interviewees: Yinuo Song & Kevin Ni – Indecisive Eaters**  
 
 ### **Problems / Frustrations**  
-<<<<<<< HEAD
 - Struggles with Deciding What to Eat: This often leads to repetitive meals or even skipping meals.   
 - Ingredient Waste: Users frequently buy groceries without a plan, resulting in expired/unfresh food.
 - Lack of Integrated Cooking & Dining Apps: Most apps focus solely on either recipes or restaurant discovery, making it difficult to switch between the two.  
