@@ -14,10 +14,17 @@ A little exercise to get started with the specification phase of the software de
 #### **Interviewees: Yinuo Song & Kevin Ni – Indecisive Eaters**  
 
 ### **Problems / Frustrations**  
+<<<<<<< HEAD
+- Struggles with Deciding What to Eat: This often leads to repetitive meals or even skipping meals.   
+- Ingredient Waste: Users frequently buy groceries without a plan, resulting in expired/unfresh food.
+- Lack of Integrated Cooking & Dining Apps: Most apps focus solely on either recipes or restaurant discovery, making it difficult to switch between the two.  
+- Unclear Nutritional Information: Users struggle to track calories, macronutrients, and overall meal healthiness when cooking at home.  
+=======
 - Struggles with Deciding What to Eat: This leads to repetitive meals or even skipping meals.   
 - Ingredient Waste: Users often buy groceries without a plan, leading to expired/unfresh food.
 - Lack of Integrated Cooking & Dining Apps: Most apps focus only on recipes or restaurant discovery, making it difficult to switch between both.  
 - Unclear Nutritional Information: Users struggle to track calories, macronutrients, and meal healthiness when cooking at home.  
+>>>>>>> 8bdf89d52980f15ba9a77e5872625d80103d2067
 - Difficulty Finding Suitable Recipes: Users with dietary restrictions (gluten-free, vegan) struggle to find recipes that match their needs.  
 
 ### **Goals / Needs**  
@@ -36,7 +43,11 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 
 - As a home cook, I want to input the ingredients I have and my dietary restrictions so that I can receive personalized recipe suggestions.
 - As a health-conscious eater, I want to access nutrition details of a recipe so that I can make informed decisions about my meals.
+<<<<<<< HEAD
+- As a busy professional, I want to quickly choose between cooking at home or finding a restaurant so that I can easily access relevant food options.
+=======
 - As a busy professional, I want to quickly choose between cooking at home or finding a restaurant so that I can get relevant food options easily.
+>>>>>>> 8bdf89d52980f15ba9a77e5872625d80103d2067
 - As a beginner cook, I want to see detailed step-by-step cooking instructions with an embedded tutorial video so that I can easily follow along while cooking.
 - As a food enthusiast, I want to regenerate meal suggestions if I don’t like the first set so that I can explore more recipe options
 - As a traveler, I want to enter my address or use my current location so that I can get restaurant suggestions near me.
@@ -47,8 +58,13 @@ MealPlanner+ is an AI-powered meal planning and dining assistant that personaliz
 
 
 ## Activity Diagrams
+<<<<<<< HEAD
+- As a user, I want to get recipes based on my ingredients so that I can cook at home.
+- As a user, I want to find information about nearby restaurants and make a reservation so that I can eat out.
+=======
 - As a user, I want to get the recipe based on my ingredients so that I can cook at home.
 - As a user, I want to get the information of near restaurants and reserve an appointment so that I can eat outside.
+>>>>>>> 8bdf89d52980f15ba9a77e5872625d80103d2067
 ![alt text](717297050984552134.png)
 
 
